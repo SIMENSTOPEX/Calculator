@@ -24,6 +24,13 @@ namespace Calculator
         {
             return a / b;
         }
-
+        public double sinus(double a)
+        {
+            return sinus(a);
+        }
+        public double cosinus(double a)
+        {
+            return cosinus(a);
+        }
     }
 }
