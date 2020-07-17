@@ -12,7 +12,7 @@ namespace Calculator
         {
             return a + b;
         }
-        public double vuchitanue(double a, double b)
+        public double vichitanie(double a, double b)
         {
             return a - b;
         }

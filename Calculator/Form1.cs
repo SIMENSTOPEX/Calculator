@@ -51,7 +51,7 @@ namespace Calculator
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox3.Text = Convert.ToString(c.vushitanie(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
+            textBox3.Text = Convert.ToString(c.vichitanie(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
         }
 
         private void button3_Click(object sender, EventArgs e)

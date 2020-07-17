@@ -9,7 +9,7 @@ namespace Calculator
     public interface Interface
     {
         double summa(double a, double b);
-        double vushitanie(double a, double b);
+        double vichitanie(double a, double b);
         double umnoszenie(double a, double b);
         double delenie(double a, double b);
     }
