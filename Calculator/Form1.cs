@@ -66,12 +66,12 @@ namespace Calculator
 
         private void button5_Click(object sender, EventArgs e)
         {
-            textBox3.Text = Convert.ToString(c.sinus(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
+            textBox3.Text = Convert.ToString(c.sinus(Convert.ToDouble(textBox1.Text)));
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            textBox3.Text = Convert.ToString(c.cosinus(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
+            textBox3.Text = Convert.ToString(c.cosinus(Convert.ToDouble(textBox1.Text)));
         }
     }
 }

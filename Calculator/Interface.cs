@@ -12,8 +12,8 @@ namespace Calculator
         double vichitanie(double a, double b);
         double umnoszenie(double a, double b);
         double delenie(double a, double b);
-        double sinus(double a, double b);
-        double cosinus(double a, double b);
+        double sinus(double a);
+        double cosinus(double a);
 
 
     }

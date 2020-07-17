@@ -26,11 +26,11 @@ namespace Calculator
         }
         public double sinus(double a)
         {
-            return sinus(a);
+            return Math.Sin(a);
         }
         public double cosinus(double a)
         {
-            return cosinus(a);
+            return Math.Cos(a);
         }
     }
 }
